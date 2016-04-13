@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisdugoszse00dugoog_0247.png"; bbox 0 0 1358 1725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 305 926 992 1053">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 322 926 946 985">
+     <span class='ocr_line' id='line_1_1' title="bbox 322 926 858 982; baseline -0.011 -30.966"><span class='ocrx_word' id='word_1_1' title='bbox 322 926 702 982; x_wconf 49' lang='lat' dir='ltr'>majumam·</span> <span class='ocrx_word' id='word_1_2' title='bbox 713 928 858 951; x_wconf 56' lang='lat' dir='ltr'>mna-m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 423 958 946 985; baseline 0 -8"><span class='ocrx_word' id='word_1_3' title='bbox 423 958 856 985; x_wconf 49' lang='lat' dir='ltr'>“uhtu-bmnhpp-n,</span> <span class='ocrx_word' id='word_1_4' title='bbox 943 977 946 979; x_wconf 72' lang='grc'>,</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 983 979 1012">
+     <span class='ocr_line' id='line_1_3' title="bbox 305 983 979 1012; baseline 0.006 -8"><span class='ocrx_word' id='word_1_5' title='bbox 305 1002 308 1004; x_wconf 33' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 426 983 979 1012; x_wconf 46' lang='lat' dir='ltr'>..mmai-umam</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 324 1018 992 1053">
+     <span class='ocr_line' id='line_1_4' title="bbox 324 1018 992 1053; baseline -0.001 -15"><span class='ocrx_word' id='word_1_7' title='bbox 324 1018 933 1053; x_wconf 43' lang='grc' dir='ltr'>ῃημιιῑιιύίιιιικιϊιμιιεακιιιῑιεδήιιιὴίά&gt;</span> <span class='ocrx_word' id='word_1_8' title='bbox 963 1022 992 1041; x_wconf 59' lang='grc'>,·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 216 100 1146 1458">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 216 100 1146 1458">
+     <span class='ocr_line' id='line_1_5' title="bbox 216 100 1146 1458; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 216 100 1146 1458; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
